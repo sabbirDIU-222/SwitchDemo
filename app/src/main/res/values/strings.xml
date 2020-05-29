@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwitchDemo</string>
+    <string name="switch_txt">Wifi   _ </string>
+</resources>
